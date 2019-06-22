@@ -1,26 +1,26 @@
 {
-  "name": "block-chain-generator",
-  "version": "1.0.0",
-  "description": "A blockchain generator.",
+  "name": "block-chain-iterator",
+  "version": "1.0.1",
+  "description": "A blockchain iterator.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/616e6b7572/block-chain-generator.git"
+    "url": "git+https://github.com/616e6b7572/block-chain-iterator.git"
   },
   "keywords": [
     "generator",
     "js",
     "blockchain"
   ],
-  "author": "616e6b7572 <blockchain+616e6b7572@gmail.com>",
+  "author": "616e6b7572 <blockchainiterator+616e6b7572@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/616e6b7572/block-chain-generator/issues"
+    "url": "https://github.com/616e6b7572/block-chain-iterator/issues"
   },
-  "homepage": "https://github.com/616e6b7572/block-chain-generator#readme",
+  "homepage": "https://github.com/616e6b7572/block-chain-iterator#readme",
   "dependencies": {
     "gencls": "^2.0.3"
   }

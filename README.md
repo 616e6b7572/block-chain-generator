@@ -1,1 +1,1 @@
-A blockchain generator.
+A blockchain iterator.
