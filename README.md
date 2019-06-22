@@ -1,2 +1,1 @@
-# block-chain-generator
-block-chain-generator
+A blockchain generator.

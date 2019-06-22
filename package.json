@@ -1,0 +1,27 @@
+{
+  "name": "block-chain-generator",
+  "version": "1.0.0",
+  "description": "A blockchain generator.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/616e6b7572/block-chain-generator.git"
+  },
+  "keywords": [
+    "generator",
+    "js",
+    "blockchain"
+  ],
+  "author": "616e6b7572 <blockchain+616e6b7572@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/616e6b7572/block-chain-generator/issues"
+  },
+  "homepage": "https://github.com/616e6b7572/block-chain-generator#readme",
+  "dependencies": {
+    "gencls": "^2.0.3"
+  }
+}
